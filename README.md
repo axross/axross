@@ -27,7 +27,7 @@ Hi everyone, thanks to visit my profile page!
 Staff Software Engineer - *June 2025 - Present*  
 Senior Software Engineer - *March 2020 - June 2025*
 
-- Building digitization platform for industrial workers
+- Building a digitization platform for industrial workers
 - Led several small task forces in OIDC-based authN/authZ, programmable WYSIWYG text editor, concurrent up/down sync with offline-support in mobile apps, etc.
 
 ### Self-employed
