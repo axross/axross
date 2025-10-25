@@ -24,7 +24,7 @@ Hi everyone, thanks to visit my profile page!
 
 ### Parsable Inc.
 
-Staff Software Engineer - *June 2025 - Present*
+Staff Software Engineer - *June 2025 - Present*  
 Senior Software Engineer - *March 2020 - June 2025*
 
 - Building digitization platform for industrial workers
